@@ -4,7 +4,7 @@ A modern, responsive, and professional personal portfolio website built with **R
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio:** [View Live Website](YOUR_LIVE_PORTFOLIO_LINK)
+🔗 **Portfolio:** [View Live Website](https://personal-portfolio-website-lac-delta.vercel.app/)
 
 ---
 
@@ -49,13 +49,7 @@ A modern, responsive, and professional personal portfolio website built with **R
 - VS Code
 - Vercel
 
-### Other Technologies
-- MongoDB
-- MySQL
-- Node.js
-- Express.js
 
----
 
 ## 📂 Project Structure
 
